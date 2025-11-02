@@ -1,6 +1,6 @@
 # mad_lab_10
 
-============================================================================Product Catalog===================================================================================
+=============================================Product Catalog==============================================
                                                                             
 I have built product Catalog application in flutter that demonstrates the implementation of essential Flutter widgets in an e-commerce context.
 
